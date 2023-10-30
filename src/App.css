@@ -1,38 +1,62 @@
-.App {
-  text-align: center;
+.main {
+  text-align: left;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.alert-button {
+  background-color: #ff0000;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 1%;
+  border: solid;
+  border-color: #ff0000;
+  border-radius: 5px;
+  cursor: pointer; 
+}
+.alert-button:hover {
+  transform: scale(0.8);
+  transition-duration: 0.3s;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.hover-button {
+  background-color: #0040ff;
+  color: #fff;
+  padding: 10px 20px;
+  border: solid;
+  border-color: #0040ff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+.hover-button:hover span {
+  display:none
+}
+.hover-button:hover:before {
+  content: "Nothing here :)";
+}
+.hover-button:hover {
+  background-color: #66baff; 
+  border-color: #66baff;
+  color: #000; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.change-text-button {
+  color: rgb(1, 173, 1);
+  padding: 10px 20px;
+  margin: 1%;
+  border: solid;
+  border-color: rgb(1, 173, 1);
+  border-radius: 5px;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.tooltip-button {
+  background-color: #aa00ff;
+  color: #fff;
+  padding: 10px 20px;
+  border: solid;
+  border-color: #aa00ff;
+  border-radius: 5px;
+  cursor: pointer; 
 }
