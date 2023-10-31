@@ -4,13 +4,13 @@ Welcome to the React Samples App! This repository serves as a collection of Reac
 
 ## Categories:
 
-### Buttons
+#### Buttons
 - Different styles
 - Various actions
 - Hover effects
 - Tooltip 
 
-### Input fields
+#### Input fields
 - Text Input 
 - Number input
 
