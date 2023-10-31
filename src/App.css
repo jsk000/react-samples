@@ -2,7 +2,10 @@
   text-align: left;
   margin-left: 5%;
   margin-right: 5%;
+  color: darkslategray;
 }
+
+/* Buttons CSS */
 
 .alert-button {
   background-color: #ff0000;
@@ -59,4 +62,23 @@
   border-color: #aa00ff;
   border-radius: 5px;
   cursor: pointer; 
+}
+
+/* Input CSS */
+.input-container {
+  display:flex;
+  align-items: center;
+}
+
+.input-label {
+  flex: 0 0 15%;
+}
+
+.input-field {
+  margin-right:auto;
+  margin-left: 1%;
+}
+
+.input-p {
+  flex: 0 0 50%;
 }
