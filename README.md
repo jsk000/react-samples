@@ -23,7 +23,7 @@ We are committed to providing daily updates to this project. New React component
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/your-username/react-samples-app.git
+   git clone https://github.com/jsk000/react-samples.git
    cd react-samples-app
    ```
 2. Install dpendencies:
