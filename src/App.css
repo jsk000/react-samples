@@ -6,7 +6,6 @@
 }
 
 /* Buttons CSS */
-
 .alert-button {
   background-color: #ff0000;
   color: #fff;
@@ -81,4 +80,65 @@
 
 .input-p {
   flex: 0 0 50%;
+}
+
+/* Dropdown*/
+.dropdown-select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for the MultiLevelDropdown component */
+.multi-level-dropdown-container {
+  width: 200px;
+  margin: 20px;
+}
+
+.menu {
+  position: relative;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-list li {
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-bottom: 0;
+  border-radius: 5px 5px 0 0;
+  padding: 8px;
+  position: relative;
+}
+
+.menu-list li:hover .submenu {
+  display: block;
+}
+
+.submenu {
+  display: none;
+  list-style: none;
+  padding: 0;
+  border: 1px solid #ccc;
+  border-top: 0;
+  border-radius: 0 0 5px 5px;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  background: #fff;
+}
+
+.submenu li {
+  cursor: pointer;
+  padding: 8px;
+}
+
+.submenu li:hover {
+  background-color: #f0f0f0;
+}
+.submenu-arrow {
+  font-size: 12px;
+  margin-left: 10%;
 }

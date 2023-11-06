@@ -58,7 +58,8 @@ const Input = () => {
                 <p className='input-p'>{age}? Oh you poor thing!</p>
             </div>
             
-
+            <hr/>
+            
         </div>
     )
 }
