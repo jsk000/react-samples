@@ -5,6 +5,7 @@ import Input from './Input';
 import Dropdown from './Dropdown';
 import NestedDropdown from './NestedDropdown';
 import Timer from './Timer';
+import Counter from './Counter';
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
         <Dropdown/>
         <NestedDropdown />
         <Timer/>
+        <Counter/>
       </div>
    
     </div>

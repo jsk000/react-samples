@@ -65,8 +65,6 @@ const Timer = () => {
         <p>Time: <span style={{ fontWeight: 'bold' }}>{time}</span> seconds</p>
       </div>
 
-      <hr/>
-
     </div>
   );
 };
