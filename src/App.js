@@ -6,6 +6,7 @@ import Dropdown from './Dropdown';
 import NestedDropdown from './NestedDropdown';
 import Timer from './Timer';
 import Counter from './Counter';
+import ContactForm from './ContactForm';
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
         <NestedDropdown />
         <Timer/>
         <Counter/>
+        <ContactForm/>
       </div>
    
     </div>

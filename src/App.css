@@ -63,6 +63,16 @@
   cursor: pointer; 
 }
 
+.submit-button {
+  background-color: #0040ff;
+  color: #fff;
+  padding: 10px 20px;
+  border: solid;
+  border-color: #0040ff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 /* Input CSS */
 .input-container {
   display:flex;
@@ -74,8 +84,7 @@
 }
 
 .input-field {
-  margin-right: 5%;
-  margin-left: 1%;
+  margin: 1%;
 }
 
 .input-p {
