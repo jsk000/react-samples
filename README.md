@@ -23,9 +23,16 @@ Welcome to the React Samples App! This repository serves as a collection of Reac
 - Counter (decrement / increment)
 
 #### Forms
-- Contact form
-- Registration form
-- Login form
+- Example form (Contact)
+
+#### Image slider
+- Image carousell
+- Automatic swipe
+
+#### To-Do list
+- Task creation
+- Deletion
+- Reset list
 
 ## Daily Updates:
 
