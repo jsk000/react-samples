@@ -37,6 +37,6 @@
     ]
   },
   "devDependencies": {
-    
+    "firebase-tools": "^12.9.1"
   }
 }
