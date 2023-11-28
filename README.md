@@ -56,7 +56,7 @@ We are committed to providing daily updates to this project. New React component
     ```
 4. Explore the React components in the provided categories and learn from the code examples!
 
-## Live Demo
+## Live Demo:
 
 Check out the live demo of the React Samples App:
 
