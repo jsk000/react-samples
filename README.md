@@ -34,6 +34,9 @@ Welcome to the React Samples App! This repository serves as a collection of Reac
 - Deletion
 - Reset list
 
+#### Alerts and modals
+- Feedback modal-box
+
 ## Daily Updates:
 
 We are committed to providing daily updates to this project. New React component samples will be added regularly to help you explore and understand various React features and best practices. We're continuously working to expand and improve this collection.

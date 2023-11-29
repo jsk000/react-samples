@@ -9,6 +9,7 @@ import Counter from './Counter';
 import ContactForm from './ContactForm';
 import ImageSlider from './ImageSlider';
 import ToDo from './ToDo';
+import Modal from './Modal';
 
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
         <ContactForm/>
         <ImageSlider images={images}/>
         <ToDo/>
+        <Modal />
       </div>
    
     </div>
