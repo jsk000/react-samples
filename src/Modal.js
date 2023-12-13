@@ -28,7 +28,7 @@ const Modal = () => {
 
   return (
     <div>
-        <h3><u> 8. Alerts and Modals: </u></h3>
+        
         <h4> Feedback modal </h4>
         
         <button className='submit-button' onClick={openModal}>Feedback</button>

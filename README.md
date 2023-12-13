@@ -35,11 +35,22 @@ Welcome to the React Samples App! This repository serves as a collection of Reac
 - Reset list
 
 #### Alerts and modals
+- Error / Success alert
 - Feedback modal-box
 
-## Daily Updates:
+#### Password evaluator
+- Customizable password standards
+- Checks length, strength, symbols, capital letters and number
 
-We are committed to providing daily updates to this project. New React component samples will be added regularly to help you explore and understand various React features and best practices. We're continuously working to expand and improve this collection.
+#### Dark mode toggle
+- Light / dark mode
+
+#### Accordion
+- Accordion menu with dynamic number of  sections
+
+## Regular Updates:
+
+We are committed to providing regular updates to this project. New React component samples will be added regularly to help you explore and understand various React features and best practices. We're continuously working to expand and improve this collection.
 
 ## How to Use:
 
